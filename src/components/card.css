@@ -1,0 +1,17 @@
+.card{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #ccc;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1rem;
+}
+.image{
+    width: 149px;
+    height: 130px;
+    
+}
+.image img{
+    height: 100%;
+    width: 100%;
+}
